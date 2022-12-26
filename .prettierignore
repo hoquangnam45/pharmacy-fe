@@ -1,0 +1,9 @@
+public/
+.gitignore
+.husky/
+src/assets
+package-lock.json
+.prettierignore
+build/
+dist/
+.eslintignore
